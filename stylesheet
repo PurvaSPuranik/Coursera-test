@@ -3,3 +3,10 @@ h1
 {
   text-align:center;
 }
+
+sec
+{
+width :30%;
+
+
+}
