@@ -6,9 +6,9 @@ h1
 
 section
 {
-width :30%;
+width :20%;
 
 }
 p{
-width :30%;
+width :20%;
 }
