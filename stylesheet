@@ -4,11 +4,7 @@ h1
   text-align:center;
 }
 
-section
-{
-width :20%;
 
-}
 p{
 width :20%;
 }
