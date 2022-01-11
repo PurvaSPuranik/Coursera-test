@@ -5,6 +5,6 @@ h1
 }
 
 
-p{
+section{
 width :20%;
 }
