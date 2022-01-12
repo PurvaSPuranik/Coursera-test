@@ -25,7 +25,9 @@ h2{
  top : 10px;
  right: -10px;
 }
-
+div{
+position:relative;
+}
 
 /********** Large devices only **********/
 @media (min-width: 992px ) {
