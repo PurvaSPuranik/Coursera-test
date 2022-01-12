@@ -18,6 +18,9 @@ border: 1px solid black;
   font-family: Helvetica;
   color: white;
 }
+h2{
+float:right;
+}
 
 /********** Large devices only **********/
 @media (min-width: 992px ) {
