@@ -21,10 +21,10 @@ border: 1px solid black;
     width: 33.33%;
   }
    .col-lg-2 {
-    width: 66.66 %;
+    width: 33.33 %;
   }
    .col-lg-3 {
-    width: 100%;
+    width: 33.33%;
   }
 }
 
@@ -33,10 +33,10 @@ border: 1px solid black;
 float:left;
 
  .col-md-1 {
-    width: 50%;
+    width: 40%;
   }
    .col-md-2 {
-    width: 50%;
+    width: 40%;
   }
    .col-md-3 {
     width: 100%;
