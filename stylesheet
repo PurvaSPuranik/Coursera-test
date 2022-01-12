@@ -21,6 +21,9 @@ border: 1px solid black;
 h2{
 float:right;
 }
+div{
+position:relative;
+}
 
 /********** Large devices only **********/
 @media (min-width: 992px ) {
