@@ -21,7 +21,7 @@ padding:2px;
 
 margin:2px;
 }
-p{  
+p{
   width: 75%;
   height: 120px;
  position: relative;
@@ -31,13 +31,13 @@ p{
   color: white;
 }
 h2{
-width:20%;
+width:50%;
  position: relative;
- 
+
  text-align:center;
   background-color: gray;
   border:1px solid black;
-  
+
 }
 
 /********** Large devices only **********/
@@ -169,4 +169,3 @@ width:20%;
     width: 100%;
   }
 }
-
