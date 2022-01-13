@@ -22,16 +22,18 @@ p{
 h2{
 width:10%;
  position: relative;
- 
  right: 10px;
+ text-align:right;
   background-color: gray;
   border:1px solid black;
+  
 }
 div{
 border: 1px solid black;
-
 background-color: #A52A2A;
 position:relative;
+padding:2px;
+margin:2px;
 }
 
 /********** Large devices only **********/
