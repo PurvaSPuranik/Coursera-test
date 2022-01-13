@@ -12,8 +12,8 @@ position:relative;
 
 p{
   
-  width: 90%;
-  height: 150px;
+  width: 75%;
+  height: 120px;
  position: relative;
  top : 10px;
  left: 10px;
