@@ -10,11 +10,11 @@ body{
   background-color: #f6b319;
   border-radius: 0;
   border: 0;
-  height: 100px;
+  height: 150px;
 }
 #logo-img{
   background: url('D:/Coursera-projects/Coursera-test/restaurant-logo.png') no-repeat;
-  width: 45px;
-  height: 45px;
+  width: 100px;
+  height: 100px;
   margin: 5px 5px 5px 0;
 }
